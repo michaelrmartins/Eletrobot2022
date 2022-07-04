@@ -1,55 +1,10 @@
-### Oiin sou o Toin
+## Eletrobot
 
 
-
-<summary>🍙 Ajuda!</summary>
-
-## Ferramentas
-
-```bash
-> Termux
-> WhatsApp
-> 2 Celulares
-```
-
----
-
-
-- Get BarBarKey on [this site](https://mhankbarbar.tech)
-
----
-
-## Instalar
-Siga os passos abaixo!
-
-```bash
-> termux-setup-storage
-(depois disso toque na permissão)
-> pkg install git
-> pkg install ffmpeg
-> pkg install wget
-> pkg install nodejs
-> pkg install npm
-> git clone https://github.com/ToinNetuh/ToiniuBot.git
-> cd ToiniuBot
-> bash install.sh
-```
-
-## Uso
-
-```bash
-> npm start
-```
 
 ## características
 
-| características únicas | sim
-| :---------------------------------------------: | :-----------: |
-|  Registrar nome e idade|✅|
-|         Level    |✅|
 
-|  FAZ  |                                           sim |
-| :---------------------------------------------: | :-----------: |
 | Sticker Maker|✅|
 | Sticker Gif Maker|✅|
 | Convert Sticker To Image|✅|
@@ -232,14 +187,4 @@ Siga os passos abaixo!
 
 ---
 
-
-
-## Agradecimentos especiais para
-
-- [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys) 
-- [RyzRdy](https://github.com/RyzRdy)
-- [Paritsod](https://github.com/Paritsod)
-- [mrfzvx12](https://github.com/mrfzvx12)
-- [Mr-hadi](https://github.com/Mr-hadi)
-- [MhankBarBar](https://github.com/mhankbarbar)
-- [NazwaS](https://github.com/NazwaS)
+## Michael Martins - 2022
