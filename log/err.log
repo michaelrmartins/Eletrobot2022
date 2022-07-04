@@ -1,0 +1,17 @@
+- Connecting...
+- Connected
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: ENOENT: no such file or directory, open 'C:\Users\Michael\AppData\Local\Temp\audioMessage3EB01B0794EE'
+Emitted 'error' event on ReadStream instance at:
+    at internal/fs/streams.js:147:14
+    at FSReqCallback.oncomplete (fs.js:171:23) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\Michael\\AppData\\Local\\Temp\\audioMessage3EB01B0794EE'
+}
+- Connecting...
+- Connected

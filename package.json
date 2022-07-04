@@ -1,0 +1,60 @@
+{
+  "name": "toiniubot",
+  "version": "0.0.2",
+  "description": "Only termux",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "termux",
+    "whatsapp",
+    "bot",
+    "whatsapp",
+    "bot"
+  ],
+  "author": "Toin",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.1.0",
+    "@ffmpeg-installer/ffmpeg": "^1.0.20",
+    "@kagchi/kag-api": "^2.0.0",
+    "async": "^3.2.0",
+    "axios": "^0.21.1",
+    "cfonts": "^2.9.1",
+    "escape-string-regexp": "^4.0.0",
+    "fake-useragent": "^1.0.1",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-installer": "^1.0.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "forever": "^0.15.3",
+    "g-i-s": "^2.1.6",
+    "git": "^0.1.5",
+    "gm": "^1.23.1",
+    "got": "^11.8.1",
+    "imagemagick": "^0.1.3",
+    "imgbb-uploader": "^1.3.0",
+    "lolis.life": "^4.0.0",
+    "moment-timezone": "^0.5.33",
+    "multistream": "^4.1.0",
+    "node-fetch": "^2.6.1",
+    "node-gtts": "^2.0.2",
+    "remove.bg": "^1.3.0",
+    "request": "^2.88.2",
+    "spinnies": "^0.5.1",
+    "tiktok-scraper": "^1.4.12",
+    "wikijs": "^6.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToinNetuh/ToiniuBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ToinNetuh/ToiniuBot.git"
+  },
+  "homepage": "https://github.com/ToinNetuh/ToiniuBot#readme"
+}

@@ -1,0 +1,126 @@
+não se esqueça de me seguir https://chat.whatsapp.com/KyOP4K5YpG5BcQvtNfXj2q
+
+
+*Regras do grupo, os cabos Danau*
+
+- Seja Respeitoso
+
+
+* OBSERVAÇÃO: NÃO FAÇA SPAM. *
+============================
+            Comandos
+============================
+
+
+
+➥ *.regras *
+Veja as regras do bot que você deve obedecer.
+
+➥ *.botstat*
+Veja o status do bot
+
+➥ *.sticker*
+Envie imagens com a legenda * .sticker * ou responda às imagens que foram enviadas
+
+
+➥ *.gifsticker*
+transformar o gif em um adesivo em movimento * (só pode usar o link do giphy) *
+Exemplo: * # gifsticker https://media.giphy.com/media/JUvI2c1ddyzkwK4RlV/giphy.gif*
+
+➥ *.lirik*
+Solicite a letra da música * (SE VOCÊ NÃO RESPONDE TALVEZ MAIS UM ERRO) *
+exemplo: * .lirik, gemidao do whatssap *
+
+➥ *.resi* = Para verificar o status de entrega de mercadorias, lista de mensageiros: jne, pos, tiki, wahana, jnt, rpx, sap, sicepat, pcp, jet, dse, first, ninja, lion, idl, rex.
+exemplo: * # recibo postal 12345678910 *
+
+➥ *.neko*
+Enviar uma imagem de gato [aleatório]
+
+➥ *.pokemon*
+Enviar imagens de Pokémon [aleatório]
+
+➥ *.isto*
+Enviar imagem de cachorro [aleatório]
+
+➥ *.wallanime*
+Enviar imagens de papel de parede de anime [aleatórias]
+
+➥ *.walldekstop*
+Enviando imagens de papel de parede da área de trabalho [aleatório]
+
+➥ *.wallhp*
+Enviando imagem de papel de parede hp [aleatório]
+
+➥ *.waifu*
+Envie fotos de personagens femininas de anime [aleatório]
+
+➥ *.qanime*
+Exibir citações de um personagem de anime [aleatório]
+
+➥ *.quote*
+Exibir citações de pessoas famosas em todo o mundo [aleatório]
+
+➥ *.dadu*
+Envie os dados de adesivos 1-6 [aleatório]
+
+➥ *.qrcode*
+Faça o texto qrcode
+Exemplo: * # qrcode HoffBoy *
+
+➥ *.tts* 
+[en language code, jp, ar, id] [texto] Converter texto em voz
+exemplo: #tts Ohayou Yamete kudasai
+
+➥ *.wait*
+[What Anime Is This], pediu o título do anime. enviar imagem com legenda * # esperar * * (deve ser da cena / captura de tela do anime, não de fan art sim su) *
+
+
+➥ *.meme*
+Untuk membuat meme dengan teks atas dan bawah
+Penggunaan: kirim gambar dengan caption *#meme ini atas | ini bawah*, atau juga bisa dengan membalas gambar yang sudah ada.
+
+➥ *#translate*
+Para interpretar mensagens no idioma especificado.
+Uso: Responder / citar / responder a mensagem que você deseja traduzir com * # traduzir id * <- id é o código do idioma. o código do idioma pode ser visto em * https: //bit.ly/33FVldE*
+
+➥ *.news*
+Exibe as últimas notícias de hoje.
+
+➥ *.covid*
+Verifique a localização da propagação de covid-19 na área ao seu redor (kelurahan).
+Uso: enviar sua localização e responder / citar / responder para a localização enviada com * .covid *
+=========================
+Downloader
+=========================
+➥ *.twt [link]*
+Baixe vídeos do twitter através do link
+Exemplo: * # twt https://youtu.be/blablabla*
+
+➥ *.fb [link]*
+Baixe vídeos do facebook através do link
+Exemplo: * # fb https://www.facebook.com.com/blablablabla*
+
+➥ *.tiktok [link]*
+Baixe vídeos do TikTok através do link
+Exemplo: * # tiktok https://vt.tiktok.com/blablabla*
+
+➥ *.joingrup*
+Insira o bot no grupo que você gerencia.
+========================
+    Lide De Grupo Somente
+========================
+➥ *.kickAll*
+Remova todos os membros do grupo!
+* Nota *: O administrador do grupo não foi expulso
+========================
+    Owner Bot Only
+========================
+➥ *.bc [texto]*
+Transmissão
+➥ *.leaveAll*
+Saia de todos os grupos!
+➥ *.clearAll*
+Apagar todos os chats
+=========================
+➥ *.donate*

@@ -1,0 +1,8 @@
+- Comandos .rita
+- API própria para download de vídeos do youtube  youtube-dl.exe "ytsearch1:corinho de fogo"
+- Google Search Engine para busca de imagens ( ok ) 
+- Criação automática de figurinhas em texto - convert -size 512x512 -background 'black' -fill 'white' -gravity 'center' caption:'Porquinho doido maluco' texto.png  ( OK )
+- Portar a função de download de videos do Instagram
+- Sistema de Ranking para as gincanas 
+- Contador de mensagens enviadas por cada membro
+-  Bloquear comandos no pv caso o membro não esteja no grupo
